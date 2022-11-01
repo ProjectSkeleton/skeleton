@@ -1,0 +1,3 @@
+[submodule "src/depend/delta"]
+	path = src/depend/delta
+	url = https://github.com/ProjectSkeleton/delta
